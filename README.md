@@ -1,1 +1,1 @@
-# Online Shoppers Purchasing Intention
+# Predicting online buyers' purchase intent
